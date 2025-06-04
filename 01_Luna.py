@@ -37,7 +37,6 @@ age = "Luna"
 print(name)
 print(age)
 
-# ¿Forzamos el tipo?
 address: str = "Mi dirección"
 address = True
 address = 28
